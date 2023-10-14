@@ -1,3 +1,5 @@
 .vscode/
 Images/*.psd
+.ipynb_checkpoints/
+
 
