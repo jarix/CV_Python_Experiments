@@ -1,5 +1,5 @@
 """
-  Horizontal Flip, Resize, and Random Cropping of Images
+  Horizontal Flip and Resize of Images with bounding boxes
 """
 
 import numpy as np
