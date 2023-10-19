@@ -1,1 +1,1 @@
-# Example of using Pillow for pixel level Image transformations
+# Examples using Pillow for Image Transformations
